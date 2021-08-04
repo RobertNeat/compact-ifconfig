@@ -1,0 +1,2 @@
+int_name, ip_address, mac_address
+enp0s3         inet 10.0.2.15           ether 08:00:27:4b:1b:16   
